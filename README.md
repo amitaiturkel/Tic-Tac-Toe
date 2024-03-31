@@ -1,4 +1,3 @@
-```markdown
 # Tic Tac Toe Tournament
 
 This project implements a Tic Tac Toe tournament where two players compete against each other in multiple rounds. Players can be of different types, including human, clever, genius, or whatever (random), and the game board can be rendered on the console or not displayed at all.
